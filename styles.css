@@ -1,8 +1,8 @@
-html { background: #f4f0e8; color-scheme: light; }
+html { background: #eef2f3; color-scheme: light; }
 body { margin: 0; }
 
   #bengel-homepage {
-    --bengel-paper: #f4f0e8;
+    --bengel-paper: #eef2f3;
     --bengel-ink: #14281f;
     --bengel-link: #3d5417;
     --bengel-font: Georgia, 'Times New Roman', serif;
